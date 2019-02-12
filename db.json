@@ -1,5 +1,4 @@
 { 
-[
   {
     'id': 't1',
     'title': 'First thing'
@@ -15,6 +14,5 @@
     'title': 'Third thing'
     'completed': false
   }
-]
 }
   
